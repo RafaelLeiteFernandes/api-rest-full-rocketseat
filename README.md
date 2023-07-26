@@ -14,3 +14,13 @@
 # RNF (Requisitos não funcionais)
  
  - 
+
+
+ ## Exemplo de arquivo .ENV
+
+ NODE_ENV="development"
+ DATABASE_URL="caminho do arquivo app.db"
+
+ ## Para o banco de dados 
+
+ Utilizar Knex utilizando as migrations da documentação
